@@ -1,2 +1,1 @@
-# PasswordManager
-PowerShell Based Password Manager with Security.
+C# Based Password Manager Coming soon..
